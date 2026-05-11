@@ -7,3 +7,4 @@ https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data
 
 
 Carlos Vargas
+George Albasha
