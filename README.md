@@ -11,3 +11,7 @@ Carlos Vargas
 George Albasha
 
 Brian Park
+
+Zuwairiyah Bari
+
+Jacob Takaoka
